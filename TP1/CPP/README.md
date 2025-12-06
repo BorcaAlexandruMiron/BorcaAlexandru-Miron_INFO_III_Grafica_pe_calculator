@@ -1,6 +1,6 @@
 # This is the CPP version of TP1 
 >[!IMPORTANT]
-> # the following dependencies are necesarry:  
+> # the following dependencies are necessary:  
 > * glfw  
 > * glew
 > * CMake > (3.28.0)
